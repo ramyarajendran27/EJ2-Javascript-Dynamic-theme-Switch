@@ -1,6 +1,6 @@
 # Themeswitcher
 
-This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application.
+This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/javascript-ui-controls) web application.
 
 ## Create a typescript application
 
